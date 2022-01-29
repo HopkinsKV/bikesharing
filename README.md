@@ -8,7 +8,7 @@ Reviewing bike sharing data from NYC to support the creation of a business propo
 
 ## Resuts
 
-[https://public.tableau.com/app/profile/katie.hopkins/viz/CitiBike_Challenge_16434852240040/HowGenderandTimeAffectCitiBike](Dashboard)
+[Dashboard](https://public.tableau.com/app/profile/katie.hopkins/viz/CitiBike_Challenge_16434852240040/HowGenderandTimeAffectCitiBike)
 
 ### Visualizations Provided
 
